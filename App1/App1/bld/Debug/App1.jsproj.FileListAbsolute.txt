@@ -1,0 +1,15 @@
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\ReverseMap\resources.pri
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\AppxManifest.xml
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\priconfig.xml
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\priconfig.xml.intermediate
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\layout.resfiles
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\layout.resfiles.intermediate
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\resources.resfiles
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\resources.resfiles.intermediate
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\pri.resfiles
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\pri.resfiles.intermediate
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\qualifiers.txt
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\qualifiers.txt.intermediate
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\olivas\Documents\Visual Studio 2013\Projects\App1\App1\bld\Debug\ProjectArchitectures.txt

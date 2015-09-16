@@ -1,0 +1,15 @@
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bin\Debug\ReverseMap\resources.pri
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bin\Debug\AppxManifest.xml
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.build.appxrecipe
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\priconfig.xml
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\priconfig.xml.intermediate
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\layout.resfiles
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\layout.resfiles.intermediate
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\resources.resfiles
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\resources.resfiles.intermediate
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\pri.resfiles
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\pri.resfiles.intermediate
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\qualifiers.txt
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\qualifiers.txt.intermediate
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\olivas\documents\visual studio 2013\Projects\HolaMundo\HolaMundo\bld\Debug\ProjectArchitectures.txt

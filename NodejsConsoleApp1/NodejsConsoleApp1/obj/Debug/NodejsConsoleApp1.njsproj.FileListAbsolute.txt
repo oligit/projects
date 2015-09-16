@@ -1,0 +1,1 @@
+c:\users\olivas\documents\visual studio 2013\Projects\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsprojResolveAssemblyReference.cache
